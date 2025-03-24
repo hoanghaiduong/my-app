@@ -11,7 +11,7 @@ import { ThemedView } from "@/components/ThemedView";
 import { useState } from "react";
 import axios from "axios";
 
-const API_KEY = "AIzaSyC4bWuHVGFVIXbrEEvqM-ud4OYW5Wr41r8";
+const API_KEY = "";
 const API_URL =
   "https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent";
 
